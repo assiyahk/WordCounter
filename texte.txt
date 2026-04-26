@@ -1,0 +1,4 @@
+Bonjour tout le monde
+Java est un langage de programmation
+Je suis en train d apprendre la programmation
+IntelliJ est un bon outil de developpement
